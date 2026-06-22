@@ -1,4 +1,5 @@
-# tsp-exact-search-analysis
+# A Comparative Algorithmic Analysis of Exact Search Methods for Urban Route Optimization: Re-evaluating the 17-City Traveling Salesman Problem
+
 Source code (C# and Ruby) and dataset for the comparative algorithmic analysis of the 17-city Bolgatanga TSP. This repository mathematically verifies the optimal Hamiltonian cycle of 4497.55 m, serving as a formal rebuttal to prior published literature.
 
 # Exact Search Methods for Urban Route Optimization (17-City TSP)
