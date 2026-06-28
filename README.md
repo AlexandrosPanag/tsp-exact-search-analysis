@@ -4,7 +4,7 @@ Source code (C# and Ruby) and dataset for the comparative algorithmic analysis o
 
 # Exact Search Methods for Urban Route Optimization (17-City TSP)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20798088.svg)]
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20798088.svg)
 
 This repository contains the source code, datasets, and experimental findings for the paper: **"A Comparative Algorithmic Analysis of Exact Search Methods for Urban Route Optimization: Re-evaluating the 17-City Traveling Salesman Problem."**
 
